@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*AREA DO HEADER*/
+header{
+	padding-top: 10%;
+	height: 670px;
+	background-image: url("../img/bk1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #f00;
+}
+
+.slogan_nativ{
+	padding-top: 10%;
+	text-align: center;
+	color: #fff;
+	margin-right: 0px;
+	overflow: hidden;
+}
+/*
+.slogan_nativ .img_nativ{
+	height: 250px;
+	background-image: url("../img/logo.png");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	float: right;
+}*/
+
+.slogan_nativ h1{
+	margin-bottom: 3%;
+	margin-top: 5%;
+}
+
+.btn_cadastrar_nativ{
+	width: 40%;
+	height: 50px;
+	border:none;
+	border-radius: 50px;
+	font-size: 100%;
+}
+
+/*AREA DE EXPLICAÇÃO*/
+#explicacao_nativ{
+	height: 670px;
+	background-color: #0f0;
+}
+
+#explicacao_nativ h2{
+	padding-top: 5%;
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+}
+
+/*AREA DE QUEM SOMOS*/
+#quem-somos_nativ{
+	height: 670px;
+	background-color: #00f;
+}
+
+#quem-somos_nativ h2{
+	padding-top: 5%;
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+}
+
+/*AREA DO RODAPÉ*/
+footer{
+	height: 200px;
+	background-color: #a0a0a0;
+}
+
+footer h2{
+	padding-top: 5%;
+	font-size: 40px;
+	text-align: center;
+}
